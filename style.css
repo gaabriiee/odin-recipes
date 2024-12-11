@@ -20,7 +20,7 @@ a {
 .list {
     text-align: center;
 }
-.list ul {
+.list ul, .list ol {
     display: inline-block;
     margin: 0;
     padding: 0;
