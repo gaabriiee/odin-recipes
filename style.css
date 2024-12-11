@@ -1,0 +1,42 @@
+.title {
+    text-align: center;
+    font-family: "Bowlby One", sans-serif;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+
+a {
+    font-size: large;
+    font-family: "Playwrite GB S", cursive;
+    text-decoration: none;
+    color: red;
+}
+
+.list {
+    text-align: center;
+}
+.list ul {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    
+}
+
+img {
+    width: 50%;
+    height: auto;
+    border-radius: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figure figcaption {
+    margin-top: 5px;
+    text-align: center;
+}
